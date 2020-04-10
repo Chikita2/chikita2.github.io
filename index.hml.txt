@@ -1,5 +1,17 @@
 <html>
+<head>
+<style>
+p{
+    font: 100%/1.5 sans-serif;
+    max-width: 33em;
+}
+</style>
+</head>
 <body>
-The green-cheeked conure is typically 26 cm (10 in) long and weighs 60 to 80 g. It is mainly green, with a brown/black/grey crown, white periophthalmic rings, green cheeks, blue primary wing feathers, a grey beak, and its long pointed tail is mostly maroon. It has short transverse striations on its breast and a red abdominal area. Males and females have an identical external appearance
+<p>The green-cheeked conure is typically 26 cm (10 in) long and weighs 60 to 80 g.
+
+<p> It is mainly green, with a brown/black/grey crown, white periophthalmic rings, green cheeks, blue primary wing feathers, a grey beak, and its long pointed tail is mostly maroon.
+
+<p> It has short transverse striations on its breast and a red abdominal area. Males and females have an identical external appearance.
 </body>
 </html>
